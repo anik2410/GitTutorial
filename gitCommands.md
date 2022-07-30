@@ -51,3 +51,4 @@ git checkout -b name of the branch
 git add .
 git commit -m "add description of the commit"
 # now push the committed changes to the online repo
+# this line is being added while in the featurebranch-gitcommands
